@@ -1,0 +1,27 @@
+#ins {
+    /* border-radius: 25%; */
+    border-radius: 12px;
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+}
+
+.immg {
+    width: 70vh;
+}
+
+.rekks {
+    display: flex;
+    justify-content: center;
+}
+
+#href {
+    text-decoration: none;
+    color: white;
+}
+
+#nav1 {
+    float: right;
+}
